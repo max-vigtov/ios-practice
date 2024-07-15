@@ -10,6 +10,7 @@
 		E1174A3B2C44D6F800C17787 /* TextExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1174A3A2C44D6F800C17787 /* TextExample.swift */; };
 		E1174A3D2C44DA6700C17787 /* ImageExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1174A3C2C44DA6700C17787 /* ImageExample.swift */; };
 		E147F4272C44E83A004D15AB /* ButtonExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E147F4262C44E83A004D15AB /* ButtonExample.swift */; };
+		E147F4292C44EEA2004D15AB /* TextFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E147F4282C44EEA2004D15AB /* TextFieldExample.swift */; };
 		E19A6C962C44CB6F00F4BBDC /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19A6C952C44CB6F00F4BBDC /* MainView.swift */; };
 		E1EBFD162C3B9697004B81E4 /* CursoiOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1EBFD152C3B9697004B81E4 /* CursoiOSApp.swift */; };
 		E1EBFD182C3B9697004B81E4 /* Exercise1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1EBFD172C3B9697004B81E4 /* Exercise1.swift */; };
@@ -21,6 +22,7 @@
 		E1174A3A2C44D6F800C17787 /* TextExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextExample.swift; sourceTree = "<group>"; };
 		E1174A3C2C44DA6700C17787 /* ImageExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageExample.swift; sourceTree = "<group>"; };
 		E147F4262C44E83A004D15AB /* ButtonExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonExample.swift; sourceTree = "<group>"; };
+		E147F4282C44EEA2004D15AB /* TextFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExample.swift; sourceTree = "<group>"; };
 		E19A6C952C44CB6F00F4BBDC /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		E1EBFD122C3B9697004B81E4 /* CursoiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CursoiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1EBFD152C3B9697004B81E4 /* CursoiOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CursoiOSApp.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 				E1174A3A2C44D6F800C17787 /* TextExample.swift */,
 				E1174A3C2C44DA6700C17787 /* ImageExample.swift */,
 				E147F4262C44E83A004D15AB /* ButtonExample.swift */,
+				E147F4282C44EEA2004D15AB /* TextFieldExample.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 			files = (
 				E1EBFD182C3B9697004B81E4 /* Exercise1.swift in Sources */,
 				E1174A3B2C44D6F800C17787 /* TextExample.swift in Sources */,
+				E147F4292C44EEA2004D15AB /* TextFieldExample.swift in Sources */,
 				E19A6C962C44CB6F00F4BBDC /* MainView.swift in Sources */,
 				E1174A3D2C44DA6700C17787 /* ImageExample.swift in Sources */,
 				E147F4272C44E83A004D15AB /* ButtonExample.swift in Sources */,
